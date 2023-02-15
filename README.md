@@ -7,8 +7,10 @@ main.py
 ```
 
 cite as
+```
 @article{olson21generalizing,
   title={Generalizing Cross Entropy Loss with a Beta Proper Composite Loss: An Improved Loss Function for Open Set Recognition},
   author={Olson, Matthew Lyle and Ratzlaff, Neale and Wong, Weng-Keen},
   booktitle={OpenReview},
 }
+```
